@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-basics",
+  "name": "ideal-eureka",
   "version": "1.0.0",
   "description": "node js tutorial package",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "nodejs",
     "js"
   ],
-  "author": "Gornashevich Maria",
+  "author": "Yury Kalenkou",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.14"
